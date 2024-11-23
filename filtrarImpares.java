@@ -1,4 +1,4 @@
-//funciona que 
+//funcion que de un array crea otro array con solamente los numeros impares
 import java.util.Arrays;
 public class main {
     public static void filtrarImpares(int[] array) {
